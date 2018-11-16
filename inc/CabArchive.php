@@ -1,4 +1,5 @@
 <?php
+require "BinaryStream.php";
 use wapmorgan\BinaryStream\BinaryStream;
 
 class CabArchive {
