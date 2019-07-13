@@ -1,9 +1,9 @@
 <?php
 /* Setup a database connection with PDO */
 $dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "Test123";
-$dbname = "cab";
+$dbuser = "";
+$dbpass = "";
+$dbname = "";
 
 // Set DSN
 $dsn = 'mysql:host='.$dbhost.';dbname='.$dbname;
